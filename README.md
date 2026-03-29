@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0148-sort-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Array
@@ -21,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
@@ -31,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -48,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
