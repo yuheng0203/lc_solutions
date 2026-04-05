@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuheng0203/lc_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Divide and Conquer
@@ -56,4 +57,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0148-sort-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuheng0203/lc_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuheng0203/lc_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
