@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuheng0203/lc_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/yuheng0203/lc_solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +76,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/yuheng0203/lc_solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/yuheng0203/lc_solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 <!---LeetCode Topics End-->
