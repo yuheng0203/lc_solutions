@@ -80,10 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -92,5 +94,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0113-path-sum-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
