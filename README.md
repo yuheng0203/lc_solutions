@@ -77,4 +77,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/yuheng0203/lc_solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/yuheng0203/lc_solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 <!---LeetCode Topics End-->
