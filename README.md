@@ -87,11 +87,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/yuheng0203/lc_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/yuheng0203/lc_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/yuheng0203/lc_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
