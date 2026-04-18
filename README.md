@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/yuheng0203/lc_solutions/tree/main/0055-jump-game/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuheng0203/lc_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
@@ -109,5 +110,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/yuheng0203/lc_solutions/tree/main/0055-jump-game/) | Medium |
 | [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/yuheng0203/lc_solutions/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
