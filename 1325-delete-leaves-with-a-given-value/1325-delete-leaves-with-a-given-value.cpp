@@ -14,11 +14,9 @@ public:
     TreeNode* removeLeafNodes(TreeNode* root, int target) {
         if(!root) return nullptr;
 
-        // 先處理左右子樹（後序）
         root->left = removeLeafNodes(root->left, target);
         root->right = removeLeafNodes(root->right, target);
 
-        // 判斷自己是不是葉節點 + 是否等於 target
         if(!root->left && !root->right && root->val == target){
             return nullptr;
         }
