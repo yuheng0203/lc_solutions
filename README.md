@@ -14,12 +14,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuheng0203/lc_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/yuheng0203/lc_solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 ## Divide and Conquer
@@ -100,4 +102,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0113-path-sum-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
 <!---LeetCode Topics End-->
