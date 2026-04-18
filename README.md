@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/yuheng0203/lc_solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/yuheng0203/lc_solutions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,12 +109,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/yuheng0203/lc_solutions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/yuheng0203/lc_solutions/tree/main/0055-jump-game/) | Medium |
 | [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/yuheng0203/lc_solutions/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
