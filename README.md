@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/yuheng0203/lc_solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/yuheng0203/lc_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/yuheng0203/lc_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,11 +97,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/yuheng0203/lc_solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/yuheng0203/lc_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/yuheng0203/lc_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/yuheng0203/lc_solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/yuheng0203/lc_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/yuheng0203/lc_solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/yuheng0203/lc_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/yuheng0203/lc_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
