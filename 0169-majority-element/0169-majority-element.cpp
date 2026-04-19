@@ -15,7 +15,7 @@ public:
         if(left == right){
             return nums[left];
         }
-        int mid = (left + right) / 2;
+        int mid = left + (right - left) / 2;
         int leftmajor = major(nums, left, mid);
         int rightmajor = major(nums, mid + 1, right);
         if(leftmajor == rightmajor){
