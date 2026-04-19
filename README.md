@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/yuheng0203/lc_solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/yuheng0203/lc_solutions/tree/main/0055-jump-game/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuheng0203/lc_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/yuheng0203/lc_solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0910-smallest-range-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0910-smallest-range-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/yuheng0203/lc_solutions/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/yuheng0203/lc_solutions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
@@ -54,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/yuheng0203/lc_solutions/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/yuheng0203/lc_solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -72,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/yuheng0203/lc_solutions/tree/main/0169-majority-element/) | Easy |
 | [0567-permutation-in-string](https://github.com/yuheng0203/lc_solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
