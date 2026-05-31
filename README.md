@@ -107,12 +107,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/yuheng0203/lc_solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/yuheng0203/lc_solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yuheng0203/lc_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/yuheng0203/lc_solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/yuheng0203/lc_solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/yuheng0203/lc_solutions/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/yuheng0203/lc_solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +148,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/yuheng0203/lc_solutions/tree/main/0055-jump-game/) | Medium |
 | [0213-house-robber-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/yuheng0203/lc_solutions/tree/main/0376-wiggle-subsequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/yuheng0203/lc_solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/yuheng0203/lc_solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
