@@ -1,9 +1,4 @@
-#define INL __attribute__((always_inline))
-#define HOT __attribute__((hot))
-#define BMI2 __attribute__((target("bmi2")))
-#define INL_ATTR noexcept INL HOT
-#define OUTL_ATTR noexcept HOT
-#define LAM_ATTR INL HOT noexcept
+
 class Solution {
 public:
     vector<vector<int>> graph;
