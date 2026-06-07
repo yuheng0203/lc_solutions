@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/yuheng0203/lc_solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/yuheng0203/lc_solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0886-possible-bipartition](https://github.com/yuheng0203/lc_solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/yuheng0203/lc_solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/yuheng0203/lc_solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0886-possible-bipartition](https://github.com/yuheng0203/lc_solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/yuheng0203/lc_solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/yuheng0203/lc_solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -155,11 +157,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/yuheng0203/lc_solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0886-possible-bipartition](https://github.com/yuheng0203/lc_solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/yuheng0203/lc_solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/yuheng0203/lc_solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0886-possible-bipartition](https://github.com/yuheng0203/lc_solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/yuheng0203/lc_solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
